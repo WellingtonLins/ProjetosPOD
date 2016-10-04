@@ -1,4 +1,4 @@
-# helloworldherokupod
+# helloworldGAE
 
 Projeto hello world usando o servidor GAE e linguagem de programação java.  
 
