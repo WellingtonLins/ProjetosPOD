@@ -47,7 +47,7 @@ public class Somador implements Runnable {
             public void run() {
                 synchronized (this) {
                     sum();
-                    System.out.println("Eu sou o metodo a Thread2");
+                    System.out.println("Eu sou  a Thread2");
                     notify();
                 }
             }
