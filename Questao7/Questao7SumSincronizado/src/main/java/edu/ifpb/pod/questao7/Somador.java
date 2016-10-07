@@ -1,4 +1,4 @@
-package edu.ifpb.dac.questao7;
+package edu.ifpb.pod.questao7;
 
 /**
  * Document Somador
